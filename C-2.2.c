@@ -1,4 +1,4 @@
-//求 Sn＝a+aa+aaa+...+aa...a之值，其中a是一个数字。例如: 2+22+222+2222(此时n＝4)，n由键盘输入。
+//求 Sn＝a+aa+aaa+...+aa...a之值
 #include "stdio.h"
 #include "math.h"
 int main()
